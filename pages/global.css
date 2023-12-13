@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --tipografas-web-subttulos: "Open Sans";
+  --font-inter: Inter;
+  --font-kaisei-tokumin: "Kaisei Tokumin";
+
+  /* font sizes */
+  --tipografas-web-subttulos-size: 20px;
+  --tipografas-web-nav-bar-size: 18px;
+  --font-size-29xl: 48px;
+  --font-size-6xl: 25px;
+  --font-size-mid: 17px;
+  --tipografas-web-buscador-size: 28px;
+  --font-size-base-7: 16.7px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --primario: #ef7828;
+  --secundario: #412e27;
+  --color-gray-100: rgba(255, 255, 255, 0.1);
+  --color-gray-200: rgba(65, 46, 39, 0.21);
+  --color-gray-300: rgba(65, 46, 39, 0.58);
+  --color-tan: rgba(229, 197, 156, 0.57);
+  --color-dimgray: #806c61;
+
+  /* Border radiuses */
+  --br-4xs: 9px;
+  --br-mid: 17px;
+  --br-3xl: 22px;
+  --br-24xl: 43px;
+}

@@ -1,0 +1,1360 @@
+.bannerImgChild,
+.shadowIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.bannerImgChild {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shadowIcon {
+  width: 447.81px;
+  height: 520.65px;
+  opacity: 0.7;
+}
+.mainIcon,
+.softcoverBookHalfOpen5253 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 356.5px;
+  height: 422.42px;
+  object-fit: cover;
+}
+.softcoverBookHalfOpen5253 {
+  top: -1.28px;
+  left: -1.28px;
+  width: 344.19px;
+  height: 423.19px;
+  mix-blend-mode: normal;
+}
+.softcoverBookHalfOpen525Wrapper {
+  position: absolute;
+  height: 73.78%;
+  width: 29.57%;
+  top: 26.22%;
+  right: 8.98%;
+  bottom: 0;
+  left: 61.46%;
+}
+.bannerImg,
+.inThisBeautiful1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.bannerImg {
+  height: 100%;
+  right: 0;
+  bottom: 0;
+}
+.inThisBeautiful1 {
+  display: inline-block;
+}
+.bannerTextSubtitle,
+.bestBooksOf20241 {
+  position: absolute;
+  height: 31.27%;
+  width: 100%;
+  top: 33.98%;
+  right: 0;
+  bottom: 34.75%;
+  left: 0;
+}
+.bestBooksOf20241 {
+  height: 25.1%;
+  width: 77.34%;
+  top: 0;
+  right: 22.66%;
+  bottom: 74.9%;
+  font-size: var(--font-size-29xl);
+}
+.instanceChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--primario);
+}
+.comprar {
+  position: absolute;
+  height: 45.1%;
+  width: 39.78%;
+  top: 27.45%;
+  left: 30.65%;
+  display: inline-block;
+}
+.rectangleParent {
+  position: absolute;
+  height: 18.15%;
+  width: 32.18%;
+  top: 81.85%;
+  right: 67.82%;
+  bottom: 0;
+  left: 0;
+  box-shadow: 2px 2px 2.3px rgba(0, 0, 0, 0.15);
+  font-size: var(--tipografas-web-botones-size);
+}
+.bannerTextMolecule {
+  position: absolute;
+  height: 40.92%;
+  width: 40.14%;
+  top: 30.33%;
+  right: 52.92%;
+  bottom: 28.75%;
+  left: 6.94%;
+}
+.bannerOrganism {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 633px;
+}
+.navbarBackgroundChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  box-shadow: -22px 8px 24.3px rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(15.8px);
+}
+.fiRrBookIcon1 {
+  position: absolute;
+  height: 82.76%;
+  width: 17.65%;
+  top: 8.62%;
+  right: 82.35%;
+  bottom: 8.62%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bookStore,
+.categoras,
+.navbarLogo {
+  position: absolute;
+  top: 0;
+  left: 20.59%;
+}
+.categoras,
+.navbarLogo {
+  left: 0;
+}
+.navbarLogo {
+  height: 100%;
+  width: 11.06%;
+  right: 88.94%;
+  bottom: 0;
+  font-size: var(--tipografas-web-subttulos-size);
+  font-family: var(--font-kaisei-tokumin);
+}
+.categoras {
+  font-weight: 600;
+}
+.navbarTextCategories,
+.navbarTextLogin,
+.navbarTextMycart,
+.navbarTextProfile {
+  position: absolute;
+  height: 86.21%;
+  width: 7.56%;
+  top: 12.07%;
+  right: 63.01%;
+  bottom: 1.72%;
+  left: 29.43%;
+}
+.navbarTextLogin,
+.navbarTextMycart,
+.navbarTextProfile {
+  width: 7.07%;
+  right: 50.41%;
+  left: 42.52%;
+}
+.navbarTextLogin,
+.navbarTextProfile {
+  width: 4.63%;
+  right: 40.49%;
+  left: 54.88%;
+}
+.navbarTextLogin {
+  width: 4.31%;
+  top: 6.9%;
+  right: 11.22%;
+  bottom: 6.9%;
+  left: 84.47%;
+}
+.fiRrMenuBurgerIcon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.navbarIconMenuhamburg {
+  position: absolute;
+  height: 82.76%;
+  width: 1.95%;
+  top: 8.62%;
+  right: 0;
+  bottom: 8.62%;
+  left: 98.05%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbarTextAling {
+  position: absolute;
+  height: 27.62%;
+  width: 85.48%;
+  top: 36.19%;
+  right: 7.3%;
+  bottom: 36.19%;
+  left: 7.23%;
+}
+.navbarOrganism {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1439px;
+  height: 105px;
+  font-size: var(--tipografas-web-nav-bar-size);
+}
+.searchInputAtmChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-24xl);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.09);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.searchIcnAtmIcon1 {
+  position: absolute;
+  height: 37.5%;
+  width: 3.31%;
+  top: 31.25%;
+  right: 93.37%;
+  bottom: 31.25%;
+  left: 3.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buscar,
+.searchTextAtm {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.searchTextAtm {
+  height: 59.38%;
+  width: 12.43%;
+  top: 20.31%;
+  right: 77.21%;
+  bottom: 20.31%;
+  left: 10.36%;
+}
+.searchMolecule {
+  position: absolute;
+  top: 696px;
+  left: calc(50% - 362px);
+  width: 724px;
+  height: 64px;
+  font-size: var(--tipografas-web-buscador-size);
+  color: var(--color-gray-300);
+}
+.byLaurenRoberts5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+}
+.cardTextSubtitleAtm {
+  position: absolute;
+  height: 5.15%;
+  width: 61.26%;
+  top: 83.2%;
+  right: 19.37%;
+  bottom: 11.65%;
+  left: 19.37%;
+  font-size: var(--font-size-sm);
+}
+.cardTextPriceAtm,
+.cardTextTitleAtm {
+  position: absolute;
+  height: 7.32%;
+  width: 51.31%;
+  top: 75.88%;
+  right: 24.61%;
+  bottom: 16.8%;
+  left: 24.08%;
+}
+.cardTextPriceAtm {
+  width: 18.32%;
+  top: 92.68%;
+  right: 40.84%;
+  bottom: 0;
+  left: 40.84%;
+  color: var(--primario);
+}
+.lf725,
+.mainIcon1 {
+  position: absolute;
+  height: 129.95%;
+  width: 167.01%;
+  top: -13.82%;
+  right: -35.73%;
+  bottom: -16.13%;
+  left: -31.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lf725 {
+  height: 90.48%;
+  width: 73.82%;
+  top: 3.97%;
+  right: 14.14%;
+  bottom: 5.56%;
+  left: 12.04%;
+}
+.cardBookMockupmadreAtm,
+.cardBookmockupPowerlessMole {
+  position: absolute;
+  height: 68.29%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 31.71%;
+  left: 0;
+}
+.cardBookmockupPowerlessMole {
+  height: 100%;
+  width: 15.82%;
+  right: 84.18%;
+  bottom: 0;
+}
+.cardTextSubtitleAtm1 {
+  position: absolute;
+  height: 5.15%;
+  width: 44.5%;
+  top: 83.2%;
+  right: 27.75%;
+  bottom: 11.65%;
+  left: 27.75%;
+  font-size: var(--font-size-sm);
+}
+.cardTextPriceAtm1 {
+  position: absolute;
+  height: 7.32%;
+  width: 31.94%;
+  top: 92.68%;
+  right: 34.03%;
+  bottom: 0;
+  left: 34.03%;
+  color: var(--primario);
+}
+.cardBookmockupExchangeMolec {
+  position: absolute;
+  height: 100%;
+  width: 15.82%;
+  top: 0;
+  right: 63.55%;
+  bottom: 0;
+  left: 20.63%;
+}
+.cardTextSubtitleAtm2 {
+  position: absolute;
+  height: 5.15%;
+  width: 73.93%;
+  top: 83.2%;
+  right: 13.27%;
+  bottom: 11.65%;
+  left: 12.8%;
+  font-size: var(--font-size-sm);
+}
+.cardTextPriceAtm2,
+.cardTextTitleAtm2 {
+  position: absolute;
+  height: 7.32%;
+  width: 100%;
+  top: 75.88%;
+  right: 0;
+  bottom: 16.8%;
+  left: 0;
+}
+.cardTextPriceAtm2 {
+  width: 16.59%;
+  top: 92.68%;
+  right: 41.71%;
+  bottom: 0;
+  left: 41.71%;
+  color: var(--primario);
+}
+.cardBookMockupmadreAtm2 {
+  position: absolute;
+  height: 68.29%;
+  width: 90.52%;
+  top: 0;
+  right: 4.74%;
+  bottom: 31.71%;
+  left: 4.74%;
+}
+.cardBookmockupUltimosdiasenb {
+  position: absolute;
+  height: 100%;
+  width: 17.48%;
+  top: 0;
+  right: 41.26%;
+  bottom: 0;
+  left: 41.26%;
+}
+.cardTextSubtitleAtm3 {
+  position: absolute;
+  height: 5.15%;
+  width: 36.13%;
+  top: 83.2%;
+  right: 31.94%;
+  bottom: 11.65%;
+  left: 31.94%;
+  font-size: var(--font-size-sm);
+}
+.cardTextPriceAtm3,
+.cardTextTitleAtm3 {
+  position: absolute;
+  height: 7.32%;
+  width: 82.2%;
+  top: 75.88%;
+  right: 8.9%;
+  bottom: 16.8%;
+  left: 8.9%;
+}
+.cardTextPriceAtm3 {
+  width: 32.98%;
+  top: 92.68%;
+  right: 33.51%;
+  bottom: 0;
+  left: 33.51%;
+  color: var(--primario);
+}
+.cardBookmockupThewickedking {
+  position: absolute;
+  height: 100%;
+  width: 15.82%;
+  top: 0;
+  right: 20.63%;
+  bottom: 0;
+  left: 63.55%;
+}
+.cardTextSubtitleAtm4 {
+  position: absolute;
+  height: 5.15%;
+  width: 46.6%;
+  top: 83.2%;
+  right: 26.7%;
+  bottom: 11.65%;
+  left: 26.7%;
+  font-size: var(--font-size-sm);
+}
+.cardTextPriceAtm4,
+.cardTextTitleAtm4 {
+  position: absolute;
+  height: 7.32%;
+  width: 70.68%;
+  top: 74.25%;
+  right: 14.66%;
+  bottom: 18.43%;
+  left: 14.66%;
+}
+.cardTextPriceAtm4 {
+  width: 32.46%;
+  top: 92.68%;
+  right: 34.03%;
+  bottom: 0;
+  left: 33.51%;
+  color: var(--primario);
+}
+.cardBookmockupJujutsukaisen,
+.popularproductsList {
+  position: absolute;
+  height: 100%;
+  width: 15.82%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 84.18%;
+}
+.popularproductsList {
+  height: 77.36%;
+  width: 100%;
+  top: 22.64%;
+  left: 0;
+}
+.popularRectangleAtmChild,
+.popularTextAtm,
+.popularTextAtm1 {
+  position: absolute;
+  height: 100%;
+  width: 125.95%;
+  top: 0;
+  right: -25.95%;
+  bottom: 0;
+  left: 0;
+}
+.popularRectangleAtmChild,
+.popularTextAtm {
+  width: 87.26%;
+  right: 0;
+  left: 12.74%;
+}
+.popularRectangleAtmChild {
+  width: 100%;
+  left: 0;
+  background-color: var(--primario);
+}
+.component59,
+.popularRectangleAtm {
+  position: absolute;
+  height: 100%;
+  width: 2.83%;
+  top: 0;
+  right: 97.17%;
+  bottom: 0;
+  left: 0;
+}
+.component59 {
+  height: 13.63%;
+  width: 17.56%;
+  right: 80.53%;
+  bottom: 86.37%;
+  left: 1.91%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-dimgray);
+}
+.productpopularOrganism {
+  position: absolute;
+  top: 847px;
+  left: calc(50% - 604px);
+  width: 1207px;
+  height: 477px;
+  color: var(--secundario);
+}
+.cyberWeek {
+  margin: 0;
+}
+.bannerchristmasTitleAtm {
+  position: absolute;
+  height: 54.39%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 45.61%;
+  left: 0;
+}
+.rectangleGroup,
+.verMs {
+  position: absolute;
+  top: 27.45%;
+  left: 30.65%;
+}
+.rectangleGroup {
+  height: 21.34%;
+  width: 65.49%;
+  top: 78.66%;
+  right: 34.51%;
+  bottom: 0;
+  left: 0;
+  box-shadow: 2px 2px 2.3px rgba(0, 0, 0, 0.25);
+  font-size: var(--tipografas-web-botones-size);
+}
+.component62 {
+  position: absolute;
+  height: 49.18%;
+  width: 19.72%;
+  top: 25.31%;
+  right: 73.33%;
+  bottom: 25.51%;
+  left: 6.94%;
+}
+.mainIcon6,
+.shadowIcon1 {
+  position: absolute;
+  object-fit: cover;
+}
+.mainIcon6 {
+  height: 81.6%;
+  width: 86.56%;
+  top: 22.2%;
+  right: 34.55%;
+  bottom: -3.8%;
+  left: -21.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shadowIcon1 {
+  top: 0;
+  left: 0;
+  width: 160.16px;
+  height: 291.35px;
+  opacity: 0.7;
+}
+.bookDesignIcon,
+.mainIcon7,
+.spineDesignIcon {
+  position: absolute;
+  top: 1.05px;
+  left: 0.79px;
+  width: 145.94px;
+  height: 287.92px;
+  object-fit: cover;
+}
+.bookDesignIcon,
+.spineDesignIcon {
+  top: -0.79px;
+  left: 5.53px;
+  width: 141.46px;
+  height: 290.29px;
+  mix-blend-mode: normal;
+}
+.spineDesignIcon {
+  top: -0.53px;
+  left: -0.79px;
+  width: 8.17px;
+  height: 289.77px;
+}
+.hardcoverBookMockupRightVi3,
+.pngwing2Icon {
+  position: absolute;
+  height: 76%;
+  width: 69.01%;
+  top: 24%;
+  right: 30.99%;
+  bottom: 0;
+  left: 0;
+}
+.pngwing2Icon {
+  height: 54.81%;
+  width: 90.52%;
+  top: 0;
+  right: 0;
+  bottom: 45.19%;
+  left: 9.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bannerchristmasImgmockup1Atm {
+  position: absolute;
+  height: 78.88%;
+  width: 16.12%;
+  top: 4.53%;
+  right: 28.11%;
+  bottom: 16.6%;
+  left: 55.77%;
+}
+.mainIcon8 {
+  height: 107.36%;
+  width: 125.02%;
+  top: -2.37%;
+  right: 10.5%;
+  bottom: -5%;
+  left: -35.53%;
+}
+.bookDesignIcon1,
+.mainIcon8,
+.mainIcon9,
+.shadowIcon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadowIcon2 {
+  height: 95.84%;
+  width: 96.21%;
+  top: 1.91%;
+  right: 0;
+  bottom: 2.25%;
+  left: 3.78%;
+  opacity: 0.7;
+}
+.bookDesignIcon1,
+.mainIcon9 {
+  height: 94.71%;
+  width: 87.38%;
+  top: 2.25%;
+  right: 8.36%;
+  bottom: 3.03%;
+  left: 4.26%;
+}
+.bookDesignIcon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  mix-blend-mode: normal;
+}
+.component49 {
+  position: absolute;
+  top: -5.79px;
+  left: -6.32px;
+  width: 167.01px;
+  height: 303.99px;
+}
+.hardcoverBookMockupRightVi4,
+.pngwing1Icon {
+  position: absolute;
+  height: 76%;
+  width: 68.06%;
+  top: 24%;
+  right: 31.94%;
+  bottom: 0;
+  left: 0;
+}
+.pngwing1Icon {
+  height: 54.81%;
+  width: 88.99%;
+  top: 0;
+  right: 0;
+  bottom: 45.19%;
+  left: 11.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bannerchristmasImgmockup2Atm {
+  position: absolute;
+  height: 78.88%;
+  width: 16.4%;
+  top: 4.53%;
+  right: 6.99%;
+  bottom: 16.6%;
+  left: 76.61%;
+}
+.mainIcon10 {
+  height: 82.32%;
+  width: 86.56%;
+  top: 22.39%;
+  right: 37.96%;
+  bottom: -4.71%;
+  left: -24.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mainIcon10,
+.mainIcon11,
+.shadowIcon3 {
+  position: absolute;
+  object-fit: cover;
+}
+.shadowIcon3 {
+  top: 0;
+  left: 0;
+  width: 157.19px;
+  height: 285px;
+  opacity: 0.7;
+}
+.mainIcon11 {
+  top: 1.03px;
+  left: 0.77px;
+  width: 142.76px;
+  height: 281.65px;
+}
+.bookDesignIcon2,
+.spineDesignIcon2 {
+  position: absolute;
+  top: -0.77px;
+  left: 5.41px;
+  width: 138.38px;
+  height: 283.97px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.spineDesignIcon2 {
+  top: -0.52px;
+  left: -0.77px;
+  width: 7.99px;
+  height: 283.45px;
+}
+.hardcoverBookMockupRightViWrapper,
+.pngwing3Icon {
+  position: absolute;
+  height: 75%;
+  width: 67.73%;
+  top: 25%;
+  right: 32.27%;
+  bottom: 0;
+  left: 0;
+}
+.pngwing3Icon {
+  height: 55.29%;
+  width: 90.52%;
+  top: 0;
+  right: 0;
+  bottom: 44.71%;
+  left: 9.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bannerchristmasImgmockupAtm {
+  position: absolute;
+  height: 78.19%;
+  width: 16.12%;
+  top: 4.73%;
+  right: 48.95%;
+  bottom: 17.08%;
+  left: 34.93%;
+}
+.bannerchristmasOrganism {
+  position: absolute;
+  top: 1406px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 486px;
+  font-size: var(--font-size-29xl);
+}
+.popularRectangleAtm2,
+.popularTextAtm2 {
+  position: absolute;
+  height: 100%;
+  width: 1.7%;
+  top: 0;
+  right: 98.3%;
+  bottom: 0;
+  left: 0;
+}
+.popularTextAtm2 {
+  width: 92.33%;
+  right: 0;
+  left: 7.67%;
+}
+.daniellesteelTitleMolecule {
+  position: absolute;
+  height: 19.06%;
+  width: 67.56%;
+  top: 0;
+  right: 32.44%;
+  bottom: 80.94%;
+  left: 0;
+}
+.biographyTextsubtitleAtm {
+  position: absolute;
+  height: 55.43%;
+  width: 98.85%;
+  top: 44.57%;
+  right: 0;
+  bottom: 0;
+  left: 1.15%;
+  font-size: var(--tipografas-web-subttulos-size);
+}
+.authorTextMolecule {
+  position: absolute;
+  height: 66.73%;
+  width: 43.82%;
+  top: 16.63%;
+  right: 56.18%;
+  bottom: 16.63%;
+  left: 0;
+  opacity: 0.7;
+}
+.authorImgMoleculeIcon {
+  position: absolute;
+  height: 106.58%;
+  width: 49.07%;
+  top: -2.56%;
+  right: -4.71%;
+  bottom: -4.01%;
+  left: 55.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.authorOrganism {
+  position: absolute;
+  top: 1981px;
+  left: calc(50% - 595px);
+  width: 1189px;
+  height: 511px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-dimgray);
+}
+.reviewsRectangleAtm,
+.reviewsTexttitleAtm,
+.reviewsTitleMolecule {
+  position: absolute;
+  height: 100%;
+  width: 87.44%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 12.56%;
+}
+.reviewsRectangleAtm,
+.reviewsTitleMolecule {
+  width: 2.79%;
+  right: 97.21%;
+  left: 0;
+}
+.reviewsTitleMolecule {
+  height: 11.34%;
+  width: 17.54%;
+  right: 82.46%;
+  bottom: 88.66%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-dimgray);
+  font-family: var(--tipografas-web-subttulos);
+}
+.reviewsRectangleAtmItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mid);
+  background-color: var(--color-tan);
+}
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.reviewsStarsAtmIcon,
+.reviewsTextNameAtm {
+  position: absolute;
+  height: 7.3%;
+  width: 13.57%;
+  top: 13.52%;
+  right: 54.81%;
+  bottom: 79.18%;
+  left: 31.62%;
+}
+.reviewsStarsAtmIcon {
+  height: 7.08%;
+  width: 32.82%;
+  top: 23.82%;
+  right: 35.57%;
+  bottom: 69.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reviewsTextCmntsAtm {
+  position: absolute;
+  height: 28.97%;
+  width: 85.4%;
+  top: 41.85%;
+  right: 7.04%;
+  bottom: 29.18%;
+  left: 7.56%;
+  font-size: var(--tipografas-web-subttulos-size);
+  font-family: var(--tipografas-web-subttulos);
+}
+.reviewsAvatarAtmIcon {
+  position: absolute;
+  height: 22.1%;
+  width: 17.7%;
+  top: 11.16%;
+  right: 74.74%;
+  bottom: 66.74%;
+  left: 7.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reviewsMolecule {
+  position: absolute;
+  height: 81.33%;
+  width: 47.47%;
+  top: 18.67%;
+  right: 52.53%;
+  bottom: 0;
+  left: 0;
+}
+.reviewsStarsAtmIcon1,
+.reviewsTextNameAtm1 {
+  position: absolute;
+  height: 15.81%;
+  width: 12.97%;
+  top: 20.93%;
+  right: 59.93%;
+  bottom: 63.26%;
+  left: 27.09%;
+}
+.reviewsStarsAtmIcon1 {
+  height: 15.35%;
+  width: 31.36%;
+  right: 9.03%;
+  bottom: 63.72%;
+  left: 59.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reviewsTextCmntsAtm1 {
+  position: absolute;
+  height: 41.86%;
+  width: 63.88%;
+  top: 42.33%;
+  right: 9.03%;
+  bottom: 15.81%;
+  left: 27.09%;
+  font-size: var(--tipografas-web-subttulos-size);
+  font-family: var(--tipografas-web-subttulos);
+}
+.reviewsAvatar1AtmIcon {
+  position: absolute;
+  height: 47.91%;
+  width: 16.91%;
+  top: 23.72%;
+  right: 78%;
+  bottom: 28.37%;
+  left: 5.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reviewsMolecule1 {
+  position: absolute;
+  height: 37.52%;
+  width: 49.67%;
+  top: 18.85%;
+  right: 0;
+  bottom: 43.63%;
+  left: 50.33%;
+}
+.reviewsTextNameAtm2 {
+  position: absolute;
+  height: 15.81%;
+  width: 24.63%;
+  top: 20.93%;
+  right: 48.28%;
+  bottom: 63.26%;
+  left: 27.09%;
+}
+.reviewsStarsAtmIcon2 {
+  position: absolute;
+  height: 15.35%;
+  width: 31.36%;
+  top: 23.72%;
+  right: 11.33%;
+  bottom: 60.93%;
+  left: 57.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.reviewsMolecule2 {
+  position: absolute;
+  height: 37.52%;
+  width: 49.67%;
+  top: 62.48%;
+  right: 0;
+  bottom: 0;
+  left: 50.33%;
+}
+.reviewsOrganism {
+  position: absolute;
+  top: 2600px;
+  left: calc(50% - 613px);
+  width: 1226px;
+  height: 573px;
+  font-size: var(--tipografas-web-buscador-size);
+  color: var(--secundario);
+  font-family: var(--font-inter);
+}
+.categoras1,
+.footerRectangleAtmChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.footerRectangleAtmChild {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--secundario);
+}
+.categoras1 {
+  width: 96.83%;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+}
+.footerListtitleCategories {
+  position: absolute;
+  height: 6.72%;
+  width: 11.66%;
+  top: 0;
+  right: 88.34%;
+  bottom: 93.28%;
+  left: 0;
+}
+.title {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 209.15%;
+  display: inline-block;
+}
+.footerListCategoriesAtm {
+  position: absolute;
+  height: 88.81%;
+  width: 22.02%;
+  top: 11.19%;
+  right: 77.98%;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-mid);
+}
+.cuenta {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.footerAccountAtm,
+.footerTitleaccountAtm {
+  position: absolute;
+  height: 6.72%;
+  width: 8.88%;
+  top: 0;
+  right: 57.63%;
+  bottom: 93.28%;
+  left: 33.49%;
+}
+.footerAccountAtm {
+  height: 25.62%;
+  width: 16.74%;
+  top: 11.19%;
+  right: 49.77%;
+  bottom: 63.18%;
+  font-size: var(--font-size-mid);
+}
+.footerListSocialmedia,
+.footerSocialmediaAtm {
+  position: absolute;
+  height: 5.22%;
+  width: 13.41%;
+  top: 0;
+  right: 30.71%;
+  bottom: 94.78%;
+  left: 55.87%;
+}
+.footerSocialmediaAtm {
+  height: 34.83%;
+  top: 11.19%;
+  bottom: 53.98%;
+  font-size: var(--font-size-mid);
+}
+.footerListLegal {
+  position: absolute;
+  height: 6.72%;
+  width: 5.74%;
+  top: 0;
+  right: 13.04%;
+  bottom: 93.28%;
+  left: 81.22%;
+}
+.title3 {
+  position: absolute;
+  height: 123.89%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  line-height: 209.15%;
+  display: inline-block;
+}
+.footerLegalAtm {
+  position: absolute;
+  height: 28.11%;
+  width: 18.78%;
+  top: 11.19%;
+  right: 0;
+  bottom: 60.7%;
+  left: 81.22%;
+  font-size: var(--font-size-mid);
+}
+.todosLosDerechosReservados1 {
+  position: absolute;
+  height: 8.46%;
+  width: 41.17%;
+  top: 91.54%;
+  right: 2.96%;
+  bottom: 0;
+  left: 55.87%;
+  font-size: var(--font-size-6xl);
+}
+.component68 {
+  position: absolute;
+  height: 82.04%;
+  width: 74.97%;
+  top: 8.98%;
+  right: 12.48%;
+  bottom: 8.98%;
+  left: 12.55%;
+}
+.footerOrganism {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 721px);
+  width: 1442px;
+  height: 490px;
+}
+.footerTextsubtitleTm,
+.footerTexttitleAtm {
+  position: absolute;
+  height: 100%;
+  width: 47.65%;
+  top: 0;
+  right: 52.35%;
+  bottom: 0;
+  left: 0;
+}
+.footerTextsubtitleTm {
+  height: 38.46%;
+  width: 36.84%;
+  right: 5.61%;
+  bottom: 61.54%;
+  left: 57.55%;
+  font-size: var(--tipografas-web-nav-bar-size);
+}
+.footerRectangleAtmItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-white);
+}
+.footerCalltoactionAtmChild,
+.footerRectangleAtm1 {
+  position: absolute;
+  height: 100%;
+  width: 82.45%;
+  top: 0;
+  right: 17.55%;
+  bottom: 0;
+  left: 0;
+}
+.footerCalltoactionAtmChild {
+  width: 100%;
+  right: -100%;
+  left: 100%;
+  border-radius: var(--br-4xs);
+  background-color: var(--secundario);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.footerCalltoactionAtm {
+  position: absolute;
+  height: 100%;
+  width: 14.42%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 85.58%;
+}
+.footerEnterAtmIcon1 {
+  position: absolute;
+  height: 39.29%;
+  width: 6.01%;
+  top: 30.36%;
+  right: 4.57%;
+  bottom: 30.36%;
+  left: 89.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component64,
+.footerTextinputAtm {
+  position: absolute;
+  height: 48.21%;
+  width: 37.98%;
+  top: 25%;
+  right: 53.13%;
+  bottom: 26.79%;
+  left: 8.89%;
+}
+.component64 {
+  height: 43.08%;
+  width: 42.45%;
+  top: 56.92%;
+  right: 0;
+  bottom: 0;
+  left: 57.55%;
+  font-size: var(--tipografas-web-subttulos-size);
+  color: var(--primario);
+}
+.component65 {
+  position: absolute;
+  height: 33.08%;
+  width: 68.06%;
+  top: 33.59%;
+  right: 15.97%;
+  bottom: 33.33%;
+  left: 15.97%;
+}
+.newsletterOrganism {
+  position: absolute;
+  top: 3324px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 393px;
+  font-size: var(--font-size-29xl);
+}
+.homeEsp {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4204px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--tipografas-web-subttulos-size);
+  color: var(--color-white);
+  font-family: var(--tipografas-web-subttulos);
+}
